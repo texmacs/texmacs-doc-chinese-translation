@@ -4,6 +4,7 @@
 
 注意也可能是/usr/local/share/TeXmacs/doc
 ## 正在翻译
-main/scheme
+main/math
 
 ## 已经完成
+main/scheme
