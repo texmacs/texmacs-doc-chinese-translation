@@ -10,7 +10,7 @@
 
     <branch|\<#914D\>\<#7F6E\> <TeXmacs>|man-setup.zh.tm>
 
-    <branch|\<#521B\>\<#5EFA\>\<#FF0C\>\<#6253\>\<#5F00\>\<#548C\>\<#4FDD\>\<#5B58\>\<#6587\>\<#6863\>|man-files.zh.tm>
+    <branch|\<#65B0\>\<#5EFA\>\<#FF0C\>\<#6253\>\<#5F00\>\<#548C\>\<#4FDD\>\<#5B58\>\<#6587\>\<#6863\>|man-files.zh.tm>
 
     <branch|\<#6253\>\<#5370\>\<#6587\>\<#6863\>|man-print.zh.tm>
   </traverse>
