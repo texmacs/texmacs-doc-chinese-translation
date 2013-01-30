@@ -3,11 +3,10 @@
 <style|tmdoc>
 
 <\body>
-  <tmdoc-title|<with|font|roman|GNU <TeXmacs>>
-  \<#7528\>\<#6237\>\<#624B\>\<#518C\>>
+  <tmdoc-title|GNU <TeXmacs> \<#7528\>\<#6237\>\<#624B\>\<#518C\>>
 
   <\traverse>
-    <branch|\<#5F00\>\<#59CB\>|start/man-getting-started.zh.tm>
+    <branch|\<#5F00\>\<#59CB\>\<#4F7F\>\<#7528\>|start/man-getting-started.zh.tm>
 
     <branch|\<#64B0\>\<#5199\>\<#7B80\>\<#5355\>\<#7684\>\<#6587\>\<#6863\>|text/man-text.zh.tm>
 
@@ -25,13 +24,13 @@
 
     <branch|\<#5E7B\>\<#706F\>\<#7247\>|beamer/man-beamer.zh.tm>
 
-    <branch|<with|font|roman|<TeXmacs>> \<#4EA4\>\<#4E92\>\<#5F0F\>\<#754C\>\<#9762\>|interface/man-itf.zh.tm>
+    <branch|<TeXmacs> \<#4EA4\>\<#4E92\>\<#5F0F\>\<#754C\>\<#9762\>|interface/man-itf.zh.tm>
 
     <branch|\<#64B0\>\<#5199\>\<#6837\>\<#5F0F\>|../devel/style/style.zh.tm>
 
-    <branch|\<#5B9A\>\<#5236\> <with|font|roman|<TeXmacs>>|scheme/man-scheme.zh.tm>
+    <branch|\<#5B9A\>\<#5236\> <TeXmacs>|scheme/man-scheme.zh.tm>
 
-    <branch|<with|font|roman|<TeXmacs>> \<#63D2\>\<#4EF6\>\<#7CFB\>\<#7EDF\>|../devel/plugin/plugins.zh.tm>
+    <branch|<TeXmacs> \<#63D2\>\<#4EF6\>\<#7CFB\>\<#7EDF\>|../devel/plugin/plugins.zh.tm>
   </traverse>
 
   <tmdoc-copyright|1998--2002|Joris van der Hoeven>
