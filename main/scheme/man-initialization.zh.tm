@@ -33,7 +33,7 @@
 
 <\initial>
   <\collection>
-    <associate|font|fireflysung>
-    <associate|language|english>
+    <associate|font|sys-chinese>
+    <associate|language|chinese>
   </collection>
 </initial>

@@ -1,10 +1,10 @@
 .
-├── man-files.zh.tm		uncheck
-├── man-guile-intro.zh.tm	uncheck
-├── man-initialization.zh.tm	uncheck
-├── man-keyboard.zh.tm	uncheck
-├── man-menus.zh.tm		uncheck
-├── man-scheme.zh.tm		uncheck
+├── man-files.zh.tm		OK
+├── man-guile-intro.zh.tm	OK
+├── man-initialization.zh.tm	OK
+├── man-keyboard.zh.tm	        OK
+├── man-menus.zh.tm		OK
+├── man-scheme.zh.tm		
 └── status
 
 0 directories, 7 files
