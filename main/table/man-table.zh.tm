@@ -13,7 +13,7 @@
   <\traverse>
     <branch|\<#521B\>\<#5EFA\>\<#8868\>\<#683C\>|man-create-table.zh.tm>
 
-    <branch|\<#683C\>\<#5F0F\>\<#5316\>\<#6A21\>\<#5F0F\>|man-table-mode.en.tm>
+    <branch|\<#683C\>\<#5F0F\>\<#5316\>\<#6A21\>\<#5F0F\>|man-table-mode.zh.tm>
 
     <branch|\<#5BF9\>\<#9F50\>|man-alignment.en.tm>
 
