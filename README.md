@@ -28,7 +28,8 @@
     /home/sadhen/software/share/TeXmacs/doc
 
 ## 正在翻译
-main/styles
+main/math
+main/text
 
 
 [ftp]:http://home.ustc.edu.cn/~sadhen/texmacs

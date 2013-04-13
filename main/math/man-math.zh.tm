@@ -1,11 +1,11 @@
-<TeXmacs|1.0.7.17>
+<TeXmacs|1.0.7.19>
 
 <style|tmdoc>
 
 <\body>
-  <tmdoc-title|Mathematical formulas>
+  <tmdoc-title|\<#6570\>\<#5B66\>\<#516C\>\<#5F0F\>>
 
-  One of the main purposes of <TeXmacs> is to edit mathematical formulas. If
+  <TeXmacs>\<#8981\>\<#89E3\>\<#51B3\>\<#7684\>\<#4E3B\>\<#8981\>\<#95EE\>\<#9898\>\<#4E4B\>\<#4E00\>\<#4FBF\>\<#662F\>\<#6570\>\<#5B66\>\<#516C\>\<#5F0F\>\<#7684\>\<#7F16\>\<#8F91\>.If
   the cursor is inside a<nbsp>formula (<abbr|i.e.> inside ``math mode''),
   then the mode sensitive menus and toolbars provide buttons for entering
   common mathematical constructs. Similarly, as will be detailed in this
@@ -25,26 +25,25 @@
   feature.
 
   <\traverse>
-    <branch|Incorporating mathematical formulas into
-    documents|keyboard/man-enter-math.zh.tm>
+    <branch|\<#5728\>\<#6587\>\<#6863\>\<#4E2D\>\<#8F93\>\<#5165\>\<#6570\>\<#5B66\>\<#516C\>\<#5F0F\>|keyboard/man-enter-math.zh.tm>
 
-    <branch|Mathematical symbols|keyboard/man-symbols.en.tm>
+    <branch|\<#6570\>\<#5B66\>\<#7B26\>\<#53F7\>|keyboard/man-symbols.zh.tm>
 
-    <branch|Main mathematical constructs|keyboard/man-main.en.tm>
+    <branch|\<#4E3B\>\<#8981\>\<#6570\>\<#5B66\>\<#7ED3\>\<#6784\>|keyboard/man-main.zh.tm>
 
-    <branch|Large delimiters|keyboard/man-large.en.tm>
+    <branch|\<#5927\>\<#578B\>\<#5206\>\<#9694\>\<#7B26\>|keyboard/man-large.zh.tm>
 
-    <branch|Big operators|keyboard/man-big.en.tm>
+    <branch|\<#5927\>\<#578B\>\<#7B97\>\<#7B26\>|keyboard/man-big.zh.tm>
 
-    <branch|Wide accents|keyboard/man-wide.en.tm>
+    <branch|Wide accents|keyboard/man-wide.zh.tm>
 
-    <branch|Semantic editing facilities|semantics/man-semantics.en.tm>
+    <branch|Semantic editing facilities|semantics/man-semantics.zh.tm>
 
-    <branch|Common errors and syntax correction|semantics/man-syntax-correction.en.tm>
+    <branch|Common errors and syntax correction|semantics/man-syntax-correction.zh.tm>
 
-    <branch|Semantics of mathematical symbols|semantics/man-semantics-symbols.en.tm>
+    <branch|Semantics of mathematical symbols|semantics/man-semantics-symbols.zh.tm>
 
-    <branch|Customized mathematical semantics|semantics/man-customized-semantics.en.tm>
+    <branch|Customized mathematical semantics|semantics/man-customized-semantics.zh.tm>
   </traverse>
 
   <tmdoc-copyright|1998--2011|Joris van der Hoeven>
@@ -59,6 +58,7 @@
 
 <\initial>
   <\collection>
-    <associate|language|english>
+    <associate|font|sys-chinese>
+    <associate|language|chinese>
   </collection>
 </initial>
