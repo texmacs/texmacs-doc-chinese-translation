@@ -35,15 +35,15 @@
 
     <branch|\<#5927\>\<#578B\>\<#7B97\>\<#7B26\>|keyboard/man-big.zh.tm>
 
-    <branch|Wide accents|keyboard/man-wide.zh.tm>
+    <branch|\<#52A0\>\<#5BBD\>\<#7684\>\<#9876\>\<#6807\>|keyboard/man-wide.zh.tm>
 
-    <branch|Semantic editing facilities|semantics/man-semantics.zh.tm>
+    <branch|\<#8BED\>\<#4E49\>\<#7F16\>\<#8F91\>\<#5DE5\>\<#5177\>|semantics/man-semantics.zh.tm>
 
     <branch|Common errors and syntax correction|semantics/man-syntax-correction.zh.tm>
 
     <branch|Semantics of mathematical symbols|semantics/man-semantics-symbols.zh.tm>
 
-    <branch|Customized mathematical semantics|semantics/man-customized-semantics.zh.tm>
+    <branch|\<#5B9A\>\<#5236\>\<#6570\>\<#5B66\>\<#8BED\>\<#4E49\>|semantics/man-customized-semantics.zh.tm>
   </traverse>
 
   <tmdoc-copyright|1998--2011|Joris van der Hoeven>
