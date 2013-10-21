@@ -15,12 +15,8 @@
     <key|text s> \<#5728\>\<#6587\>\<#672C\>\<#6A21\>\<#5F0F\>\<#4E0B\>\<#4EA7\>\<#751F\>strong\<#6587\>\<#672C\>,\<#5728\>\<#6570\>\<#5B66\>\<#6A21\>\<#5F0F\>\<#4E0B\>\<#5219\>\<#662F\><math|<sqrt|>>\<#FF08\>\<#5E73\>\<#65B9\>\<#6839\>\<#FF09\>.
 
     <item*|<prefix|altcmd>>\<#7EC4\>\<#5408\>\<#5F0F\><TeXmacs>\<#5FEB\>\<#6377\>\<#952E\>.
-    FIXME Usually, these shortcuts first indicate the kind of markup to which
-    the command will apply and then specify the specific command. For
-    instance, the <key|executable> prefix is used for insering executable
-    markup, which is useful for <hlink|writing style
-    files|../../../devel/style/style.en.tm>. One example is the shortcut
-    <key|executable +> for the insertion of an addition.
+    \<#901A\>\<#5E38\>,\<#8FD9\>\<#4E9B\>\<#5FEB\>\<#6377\>\<#952E\>\<#662F\>\<#7528\>\<#4E8E\>\<#5148\>\<#6307\>\<#793A\>\<#547D\>\<#4EE4\>\<#5C06\>\<#8981\>\<#5E94\>\<#7528\>\<#7684\>\<#6807\>\<#8BB0\>\<#7684\>\<#7C7B\>\<#522B\>\<#518D\>\<#6307\>\<#5B9A\>\<#5177\>\<#4F53\>\<#7684\>\<#547D\>\<#4EE4\>.\<#6BD4\>\<#5982\><key|executable>\<#952E\>\<#524D\>\<#7F00\>\<#7528\>\<#4E8E\>\<#63D2\>\<#5165\>\<#53EF\>\<#6267\>\<#884C\>\<#7684\>\<#6807\>\<#8BB0\>\<#4EE5\>\<#7528\>\<#4E8E\><hlink|\<#64B0\>\<#5199\>\<#6837\>\<#5F0F\>\<#6587\>\<#4EF6\>|../../../devel/style/style.en.tm>.\<#4E00\>\<#4E2A\>\<#4F8B\>\<#5B50\>\<#662F\>\<#5FEB\>\<#6377\>\<#952E\><key|executable
+    +>\<#7528\>\<#4E8E\>\<#63D2\>\<#5165\>\<#52A0\>\<#6CD5\>.
 
     <item*|<prefix|structured:geometry>>\<#6B64\>\<#952E\>\<#524D\>\<#7F00\>\<#7528\>\<#4E8E\>\<#548C\>\<#65B9\>\<#5411\>\<#952E\>\<#53CA\>\<#5176\>\<#5B83\>\<#7279\>\<#6B8A\>\<#952E\>\<#7EC4\>\<#5408\>,\<#7528\>\<#4E8E\><hlink|\<#79FB\>\<#52A8\>\<#548C\>\<#7F29\>\<#653E\>\<#5BF9\>\<#8C61\>|../../editing/man-structured-geometry.zh.tm>.
 

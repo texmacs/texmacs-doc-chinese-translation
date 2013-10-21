@@ -95,8 +95,3 @@
   Documentation License".>
 </body>
 
-<\initial>
-  <\collection>
-    <associate|font|fireflysung>
-  </collection>
-</initial>
