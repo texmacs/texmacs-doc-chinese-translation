@@ -29,7 +29,7 @@
     /home/sadhen/software/share/TeXmacs/doc
 
 ## 正在翻译
-main/graphics
+devel/format
 
 
 [ftp]:http://home.ustc.edu.cn/~sadhen/texmacs
