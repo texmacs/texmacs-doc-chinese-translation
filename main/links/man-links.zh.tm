@@ -12,13 +12,13 @@
 
     <branch|\<#751F\>\<#6210\>\<#76EE\>\<#5F55\>|man-toc.zh.tm>
 
-    <branch|\<#7F16\>\<#5236\>\<#53C2\>\<#8003\>\<#6587\>\<#732E\>|man-bibliography.zh.tm>
+    <branch|\<#7F16\>\<#5236\>\<#53C2\>\<#8003\>\<#6587\>\<#732E\>|man-bibliography.en.tm>
 
     <branch|\<#751F\>\<#6210\>\<#7D22\>\<#5F15\>|man-index.en.tm>
 
-    <branch|\<#7F16\>\<#5236\>\<#672F\>\<#8BED\>\<#8868\>|man-glossary.zh.tm>
+    <branch|\<#7F16\>\<#5236\>\<#672F\>\<#8BED\>\<#8868\>|man-glossary.en.tm>
 
-    <branch|\<#4E66\>\<#7C4D\>\<#548C\>\<#591A\>\<#6587\>\<#4EF6\>\<#7684\>\<#6587\>\<#6863\>|man-multifile.zh.tm>
+    <branch|\<#4E66\>\<#7C4D\>\<#548C\>\<#591A\>\<#6587\>\<#4EF6\>\<#7684\>\<#6587\>\<#6863\>|man-multifile.en.tm>
   </traverse>
 
   <tmdoc-copyright|1998--2002|Joris van der Hoeven>
