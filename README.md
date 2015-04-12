@@ -15,3 +15,4 @@
 3. 在TeXmacs排版效果非常糟糕的时候，请不要尝试使用一些小技巧以改进排版效果。就这样留在那里即可，你可以在这里提一个issue，以供来者优化排版算法
 4. 在排版上尽量保持和原文档的统一
 5. 文档中的菜单项不要翻译，统一交由字典处理
+6. 术语表参考[glossary.csv](https://github.com/sadhen/texmacs_doc_zh/blob/master/glossary.csv)
