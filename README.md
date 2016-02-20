@@ -50,5 +50,5 @@ $ svn co svn://svn.sv.gnu.org/texmacs/trunk/src/TeXmacs/doc/main
 ├── styles
 ├── table             (done)
 └── text              (plan)           medium 
-    └── keyboard
+    └── keyboard      (done)
 ```
