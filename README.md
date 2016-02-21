@@ -1,7 +1,7 @@
 # TeXmacs 文档翻译
 
 ## 使用翻译
-1. 阅读PDF：[传送门](http://home.ustc.edu.cn/~sadhen/texmacs/)
+1. 阅读PDF：[传送门](http://pan.baidu.com/s/1qXaQRCS#path=%252FTeXmacs%252Fdoc)
 2. 阅读网页文档（planning）
 3. 直接在 TeXmacs 中阅读文档（推荐），如果所用的发行版的 TeXmacs 版本比较老旧，推荐下载最新的源代码编译安装。
 
@@ -44,11 +44,11 @@ $ svn co svn://svn.sv.gnu.org/texmacs/trunk/src/TeXmacs/doc/main
 ├── interface
 ├── layout            (done)
 ├── links
-├── math              (plan)           high
+├── math              (plan)           high     WeweTom
 ├── scheme            (done)
 ├── start             (done)
 ├── styles
 ├── table             (done)
-└── text              (plan)           medium 
-    └── keyboard      (done)
+└── text              (done) 
+    └── keyboard    
 ```
