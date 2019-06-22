@@ -12,7 +12,7 @@
 ## 开始翻译
 假定你电脑上安装了最新的 TeXmacs，并且你熟悉 TeXmacs 的基本操作。首先要获得最新的文档：
 ```
-$ svn co svn://svn.sv.gnu.org/texmacs/trunk/src/TeXmacs/doc/main
+$ git clone git@github.com:texmacs/doc.git
 ```
 然后就可以开始干活了，另外请反复阅读`翻译规范`。
 
